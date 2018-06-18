@@ -1,0 +1,56 @@
+@CHARSET "ISO-8859-1";
+
+.HarshadImage {
+	float: left;
+	width: 30%;
+	height: auto;
+	margin: 2%;
+}
+
+.top_header {
+	clear: both;
+}
+
+#top_header_div{
+	overflow:hidden;
+	background: rgba(0, 0, 0, 0.4)
+	
+}
+
+hr{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+caption{
+	
+	background: rgba(0, 0, 0, 0.6)
+}
+table{
+	width: 100%;
+	padding: 20px;
+	text-align: left;
+}
+.SkillsSetDiv {
+	
+	background: rgba(0, 0, 0, 0.4);
+}
+
+.SkillsInfoTable td{
+	
+}
+
+.EducationInfoTable td{
+	width: inherit;
+	padding: 2px;
+	padding-bottom: 20px;
+}
+
+
+
+
+.MainContentDiv {
+	
+	width: 75%;
+	margin: 0 auto;
+}

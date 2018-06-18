@@ -1,0 +1,63 @@
+@font-face {
+	font-family: ProximaNovaLight;
+	src: url("../fonts/ProximaNova-Light.otf");
+}
+
+.MainContentDiv {
+	width: 75%;
+	margin: 0 auto;
+}
+.ImageInfoContainer{
+	display: none;
+}
+.Image {
+	width: 100%;    
+}
+
+.Previous {
+	left: -4%;
+}
+
+.SlideshowElementsHolder {
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+	
+}
+.Next {
+	right: -4%;
+}
+
+.Previous, .Next {
+	position: absolute;
+	cursor: pointer;
+	top: 45%;
+	width: auto;
+	padding: 15px;
+	margin: 0 auto;
+	font-size: 25px;
+	color: white;
+	background-color: rgba(0,0,0,0.6);
+}
+
+
+
+.Previous:hover, .Next:hover {
+  background-color: rgba(0,0,0,0.4);
+}
+
+.SlideNumber{
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	background-color: rgba(0,0,0,0.8);
+	top: 0%;
+	
+}
+.ImageDescription{
+	position: absolute;
+	bottom: 7px;
+	width: 100%;
+	text-align: center;
+	background-color: rgba(0,0,0,0.8);
+}

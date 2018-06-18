@@ -1,0 +1,29 @@
+.s{
+	font-size: 150%;
+}
+
+.HomePageContainer {
+	width: 75%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.WebsiteDescription {
+	padding: 0;
+	margin: 0 auto;
+	margin-top: 80px;
+	width: 75%;
+	text-align: center;
+}
+
+.WebsiteDescription ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+
+.NextPhaseHeading {
+	text-decoration: underline;
+	margin: 30px 0px 0px 0px;
+}
