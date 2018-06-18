@@ -41,10 +41,14 @@ table{
 }
 
 .EducationInfoTable td{
-	width: inherit;
-	padding: 2px;
-	padding-bottom: 20px;
+	width: inherit;	
+	padding-bottom: 10px;
 }
+
+.EducationInfoTable tr{
+	margin-bottom: 10px;
+}
+
 
 
 
